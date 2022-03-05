@@ -1,0 +1,10 @@
+﻿{
+	"name": "Hate2Wait",
+	"version_number": "0.1.0",
+	"website_url": "",
+	"description": "Hate waiting on printers to spit out your items? Hate waiting on R2API to help solve it?  R2API free Printer speed up here for you!  Give all those working on R2API a break and get some of your QOL back!  Enjoy!  Future versions I hope to add chance shrines and scrappers",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.19",
+		"RiskofThunder-HookGenPatcher-1.2.1"
+	]
+}
